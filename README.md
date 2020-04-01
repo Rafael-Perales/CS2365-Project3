@@ -1,6 +1,7 @@
 Project 3 Planning 
 
 The Game: http://www.dvgiochi.net/bang_the_dice_game/BANG!_dice_game-rules.pdf
+
 Each player has a role that define its goal card:
 • Sheriff: must eliminate all Outlaws and the Renegade(s); • Outlaws: must eliminate the Sheriff;
 • Deputies: must help and protect the Sheriff;
